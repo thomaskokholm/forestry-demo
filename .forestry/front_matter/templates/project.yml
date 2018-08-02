@@ -36,5 +36,3 @@ fields:
     max: '5'
     step: '1'
     required: false
-pages:
-- _projects/a-project.html
