@@ -27,3 +27,12 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: number
+  name: aaa
+  label: AAA
+  description: An aaa
+  config:
+    min: '1'
+    max: '5'
+    step: '1'
+    required: false
